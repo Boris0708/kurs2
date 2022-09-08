@@ -1,0 +1,195 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.one {
+  
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+
+}
+.abaut{
+    margin-bottom: 40px;
+}
+.abauta{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+        margin-bottom: 20px;
+
+}
+.mame{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        color: #000000;
+        margin-bottom: 25px;
+
+}
+.text{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        width: 400px;
+}
+
+.link_top{
+    margin-bottom: 50px;
+}
+.link_c{
+    padding: 0px;
+    margin-left: 20px;
+}
+.link{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #000000;
+}
+.link_a{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+}
+.link_b{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        margin-left: 10px;
+}
+.dugka{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #000000;
+}
+.work{
+    margin-bottom: 50px;
+
+}
+.work_a{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: #000000;
+}
+.work_b{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+}
+.work_d{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+}
+.work_c{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+    color: #FB6D3A;
+}
+.work_e{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        padding: 0;
+        margin-left: 20px;
+}
+.education{
+    
+}
+.edu{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        color: #000000;
+}
+.two {
+    
+    background-color: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+.zero{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0 auto;
+    width: 1200px;
+    background-color: #FFFFFF;
+}
+.foto{
+    width: 370px;
+    margin-bottom: 50px;
+}
+.tach , .soft{
+    color: #FFFFFF;
+    margin-left: 60px;
+    padding: 0;
+
+}
+
+
+
+.w{
+    color: #FFFFFF;
+    width: 104px;
+        height: 27px;
+        left: 80px;
+        top: 485px;
+        padding-left: 40px;
+}
+
+.call{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #798084;
+        margin-left: 4px;
+}
+.co{
+    margin-bottom: 10px;
+}
+.contacta{
+     margin-bottom: 50px;
+}
+.p{
+    color: #FB6D3A;
+}
+.q {
+    color: #FFFFFF;
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+}
+.contact{
+    margin-left: 40px;
+    color: #FFFFFF;
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+}
